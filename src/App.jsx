@@ -2,7 +2,7 @@ import { useState } from "react";
 import AddMovie from "./Components/AddMovie";
 import Filter from "./Components/Filter";
 import MovieList from "./Components/MovieList";
-import moviesData from "./Components/data/movies";
+import moviesData from "./Components/Data/Movies";
 import "./App.css";
 
 function App() {
